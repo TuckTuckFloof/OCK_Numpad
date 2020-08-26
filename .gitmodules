@@ -1,0 +1,12 @@
+[submodule "OCK_Numpad/MX_Alps_Hybrid"]
+	path = OCK_Numpad/MX_Alps_Hybrid
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid.git
+[submodule "OCK_Numpad/random-keyboard-parts.pretty"]
+	path = OCK_Numpad/random-keyboard-parts.pretty
+	url = https://github.com/ai03-2725/random-keyboard-parts.pretty.git
+[submodule "OCK_Numpad/Keebio-Parts.pretty"]
+	path = OCK_Numpad/Keebio-Parts.pretty
+	url = https://github.com/keebio/Keebio-Parts.pretty.git
+[submodule "OCK_Numpad/keebio-components"]
+	path = OCK_Numpad/keebio-components
+	url = https://github.com/keebio/keebio-components.git
